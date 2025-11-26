@@ -1,5 +1,5 @@
 ---
-updated: 2025-11-26T09:08
+updated: 2025-11-26T09:18
 ---
 ## Introduction Talking Points
 - No antibiotics, ever. If an animal needs antibiotic treatment, it is separated from those bought by our Meat department.
