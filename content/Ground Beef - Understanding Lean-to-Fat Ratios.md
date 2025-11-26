@@ -1,18 +1,23 @@
 ---
-updated: 2025-11-26T10:18
+updated: 2025-11-26T10:42
 ---
 
-The ratio on the label (like 80/20 or 93/7) tells you lean meat versus fat. But what most people don't realize is that these ratios are largely determined by the feeding program—whether the cattle were grass-fed and grain-finished (conventional) or 100% grass-fed.
+The ratio on the label (like 80/20 or 93/7) tells you lean meat versus fat. These ratios are largely determined by the feeding program—whether the cattle were grass-fed and grain-finished (conventional) or 100% grass-fed. Most people choose based on what they're making and their personal preferences around fat content.
 
-## Conventional: Grass-fed/Grain-finished (80/20 and 90/10)
+## Everyday Ground Beef (80/20 and 85/15)
 
-Cattle that are finished on grain develop more intramuscular fat, which gives you those higher fat ratios. This is your classic, widely available ground beef.
+This is your versatile, flavorful ground beef that works for most applications. It has enough fat to stay juicy and create rich flavor without being greasy.
 
-### 80/20: The Workhorse
+**Common ratios:**
 
-This is your classic ground beef—20% fat means it's got enough to stay juicy and flavorful without being greasy. It's the most versatile ratio and what most recipes assume you're using when they just say "ground beef."
+- **80/20** — Most common in conventional (grass-fed/grain-finished) beef
+- **85/15** — Most common in 100% grass-fed beef
 
-**Best for:**
+### What makes it work
+
+The fat renders during cooking and bastes the meat from the inside, keeping everything moist and flavorful. You'll get some rendered fat in the pan, but it's manageable and often desirable—it's what makes burgers juicy and gives chili its richness.
+
+### Best for:
 
 - Burgers
 - Meatloaf
@@ -20,65 +25,49 @@ This is your classic ground beef—20% fat means it's got enough to stay juicy a
 - Tacos
 - Chili
 - Bolognese
-- Basically anything where the beef is the star and you want rich, beefy flavor
+- Pasta sauces
+- Casseroles
+- Anything where you want rich, beefy flavor
 
-The fat renders out during cooking and bastes the meat from the inside, keeping everything moist.
+### The deal
 
-**The deal:** You'll get some fat rendering out in the pan, but it's manageable. For burgers especially, this is the sweet spot—enough fat to keep them juicy on the grill without flare-ups getting out of control. If you drain it for tacos or chili, you're still left with plenty of flavor.
-
-### 90/10: Leaner but Still Conventional
-
-A leaner option while staying in the conventional program—10% fat is enough to keep it from being totally dry, but the beef flavor is cleaner and less rich.
-
-**Best for:**
-
-- Recipes where beef is mixed with lots of other ingredients (like pasta with tons of veggies)
-- Lighter sauces
-- When you're adding other fats like cheese or cream
-- Meal prep when you're watching calories but still want ground beef
-
-**The deal:** You'll barely have any fat to drain, which is convenient. But it can dry out if you overcook it, so keep an eye on it. Works great when other ingredients are bringing moisture and fat to the dish—think beef and bean burritos with cheese, sour cream, and guac doing the heavy lifting.
+This is your default ground beef for most cooking. It's forgiving, flavorful, and what most recipes assume you're using. The 80/20 (conventional) has a bit more fat and richer flavor; the 85/15 (grass-fed) is slightly leaner but still plenty juicy.
 
 ---
 
-## 100% Grass-fed (85/15 and 93/7)
+## Leaner Ground Beef (90/10 and 93/7)
 
-Cattle that eat only grass their entire lives are naturally leaner, which is why you'll see these lower fat ratios. The beef has a different flavor profile—often described as more mineral-forward or "beefy" in a different way.
+This is ground beef with significantly less fat—great when you're specifically looking to reduce fat content or when other ingredients are bringing moisture and richness to the dish.
 
-### 85/15: The Grass-fed Sweet Spot
+**Common ratios:**
 
-This is the most versatile grass-fed option—enough fat to stay flavorful and moist, but leaner than conventional. It's a good compromise when you want grass-fed beef without sacrificing too much juiciness.
+- **90/10** — Available in both conventional and grass-fed
+- **93/7** — Most common in 100% grass-fed beef
 
-**Best for:**
+### What makes it work
 
-- Tacos
-- Pasta sauces
-- Casseroles
-- Stuffed peppers
-- Anything where you're mixing the beef with other ingredients
-- Burgers on a flattop where you want less splatter
+With less fat, these cook up firmer and leaner. The beef flavor is cleaner and less rich, which can be a feature when you want the meat to complement rather than dominate a dish.
 
-**The deal:** Less fat to drain means less waste, but you're still getting good flavor. It's the "I want grass-fed beef flavor but I don't want to feel like I need to drain half the pan" option—though with grass-fed, there's usually not much to drain anyway.
+### Best for:
 
-### 93/7: Maximum Lean
+- Recipes with lots of other ingredients (pasta with tons of veggies, casseroles)
+- Dishes where you're adding other fats (cheese, cream, sour cream)
+- When you're specifically watching fat/calorie intake
+- Lighter sauces where you don't want heavy beef flavor
+- Meal prep when you want to control fat content
 
-This is about as lean as ground beef gets. At 7% fat, it cooks up very lean and firm with a clean, pronounced beef flavor.
+### The deal
 
-**Best for:**
+These ratios need more attention—they can dry out if overcooked, and they benefit from added moisture through sauces, broths, or other ingredients. They're not ideal for burgers unless you're adding binders and fat. Think of this as the "I'm being mindful about fat but still want beef" option.
 
-- When you specifically need lean beef for diet-focused meals
-- Mixing into dishes where you're adding other fats (like a creamy stroganoff)
-- When you want the beef texture without much fat
-- Applications where you're adding a fatty sauce or lots of cheese
-
-**The deal:** It dries out easily and can get crumbly if you're not careful. You'll need to add moisture somehow—cooking it in broth, sauce, or adding oil to the pan. It's not great for burgers unless you're mixing in other binders and fats. Think of it as the "I'm being good but I still want beef" option.
+For 93/7 especially, you'll want to avoid overcooking and consider cooking in liquid or sauce rather than just browning in a dry pan.
 
 ---
 
 ## The Short Version
 
-**Conventional (80/20, 90/10):** Higher fat content from grain-finishing, more forgiving to cook, richer flavor. 80/20 is your default for most applications.
+**Everyday (80/20, 85/15):** Your default choice—juicy, flavorful, versatile. Works for everything from burgers to chili. 80/20 is most common in conventional beef, 85/15 in grass-fed.
 
-**100% Grass-fed (85/15, 93/7):** Naturally leaner, different flavor profile, needs a bit more attention to avoid drying out. 85/15 is your best bet for everyday cooking.
+**Leaner (90/10, 93/7):** When you specifically want less fat or when other ingredients are bringing moisture and richness. Needs more attention to avoid drying out.
 
-**The real talk:** Fat = flavor and moisture. Whether you choose conventional or grass-fed often comes down to personal preference, diet goals, or ethics. But understanding the fat ratio helps you cook it right. Leaner beef needs more care—don't overcook it, and consider adding moisture through other ingredients or cooking methods.
+**The real talk:** Fat = flavor and moisture. Most home cooking benefits from the everyday ratios (80/20 or 85/15). Save the leaner options for when you actually need them to be lean or when your recipe has plenty of other fats and moisture built in.
